@@ -1,0 +1,23 @@
+        .js-kalculator {
+            width: 500px;
+            margin: 0 auto;
+            text-align: center;
+            background-color: rgb(255, 0, 149);
+            padding: 20px;
+            border: purple 3px solid;
+        }
+        
+        .js-kalculator .input-verch button {
+            width: 40px;
+            height: 40px;
+            margin: 20px;
+        }
+        
+        .js-kalculator .niz .label1 {
+            color: rgb(255, 255, 255);
+        }
+        
+        .input-niz {
+            display: inline-block;
+            padding: 10px;
+        }

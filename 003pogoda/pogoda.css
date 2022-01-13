@@ -1,0 +1,38 @@
+.novosti li,
+.nedvigimost li {
+    padding: 10px;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.novosti li:hover {
+    background-color: rgb(92, 108, 255);
+}
+
+.novosti li:hover a,
+.nedvigimost li:hover a {
+    color: rgb(255, 255, 255);
+}
+
+.novosti h2 {
+    background-color: rgb(0, 116, 124);
+}
+
+.nedvigimost h2 {
+    background-color: rgb(0, 151, 45);
+}
+
+.nedvigimost li:hover {
+    background-color: rgb(3, 173, 26);
+}
+
+.novosti .footer {
+    color: rgb(4, 0, 255);
+}
+
+.nedvigimost .footer {
+    color: rgb(0, 177, 0);
+}
